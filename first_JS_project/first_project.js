@@ -25,3 +25,4 @@ console.log(newNicknameGreeting);
 
 const favoriteSubject = "Computer Science";
 
+// God is great for this progress.
